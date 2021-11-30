@@ -1,6 +1,10 @@
 Hi, I’m @BenSiv.
-I’m interested in all things data science.
-I’m currently in mastesrs program in biotechnology and learning julia programming. 
+I’m interested in all things Bioinformatics and Data science.
+I graduated a mastesr's program in biotechnology in Tel-Hai college and done my research in MIGAL institute.
+My research focuses on developing novel methods for gene editing in trees.
+I’m currently in bioinformatition role in Equinom.
+
+My main programming language is Julia.
 
 You can reach me at bench.sivan@gmail.com
 
