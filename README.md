@@ -2,7 +2,7 @@ Hi, I’m @BenSiv.
 I’m interested in all things Bioinformatics and Data science.
 I graduated a mastesr's program in biotechnology in Tel-Hai college and done my research in MIGAL institute.
 My research focuses on developing novel methods for gene editing in trees.
-I’m currently in bioinformatition role in Equinom.
+I’m currently a bioinformatician in Equinom.
 
 My main programming language is Julia.
 
