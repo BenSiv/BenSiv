@@ -3,8 +3,6 @@ I’m interested in all things Bioinformatics and Data science.
 I graduated a mastesr's program in biotechnology in Tel-Hai college and done my research in MIGAL institute.
 My research focuses on developing novel methods for gene editing in trees.
 
-My main programming language is Julia.
-
 You can reach me at bensiv92@gmail.com
 
 <!---
