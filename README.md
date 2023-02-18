@@ -1,8 +1,8 @@
 Hi, I’m @BenSiv.
-I’m interested in all things Bioinformatics and Data science.
-Data Science Program graduate at Israel Tech Challenge.
-M.Sc. in Biotechnology from Tel-Hai collage.
-Previously bioinformatician in AgTech industry.
+- I’m interested in all things Bioinformatics and Data science.
+- Data Science Program graduate at Israel Tech Challenge.
+- M.Sc. in Biotechnology from Tel-Hai collage.
+- Previously bioinformatician in AgTech industry.
 
 You can reach me at bensiv92@gmail.com
 
