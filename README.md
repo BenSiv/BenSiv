@@ -1,7 +1,8 @@
 Hi, I’m @BenSiv.
 I’m interested in all things Bioinformatics and Data science.
-I graduated a mastesr's program in biotechnology in Tel-Hai college and done my research in MIGAL institute.
-My research focuses on developing novel methods for gene editing in trees.
+Data Science Program graduate at Israel Tech Challenge.
+M.Sc. in Biotechnology from Tel-Hai collage.
+Previously bioinformatician in AgTech industry.
 
 You can reach me at bensiv92@gmail.com
 
