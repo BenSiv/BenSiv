@@ -20,7 +20,7 @@ I bridge the gap between biology and computation. My work focuses on building in
 | :--- | :--- |
 | **Data Science** | Python (Scikit-learn, PyTorch), R, Julia, SQL, NLP, RAG, LLMs |
 | **Bioinformatics** | Sequence Processing, Genome Assembly, Variant Modeling, Expression Analysis |
-| **Engineering/DevOps** | Docker, AWS, GCP, Terraform, Ansible, Git, Lua |
+| **Engineering/DevOps** | Docker, Podman, AWS, GCP, Terraform, Ansible, Git, Lua |
 | **CAD & Fabrication** | Luametry, OpenSCAD, 3D Modeling, FDM 3D Printing |
 
 ---
