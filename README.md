@@ -10,7 +10,7 @@ I bridge the gap between biology and computation. My work focuses on building in
 *   **[Luametry](https://github.com/BenSiv/luametry)**: A professional, programmatic CAD tool for Lua, supporting STEP, 3MF, and OBJ exports with high-fidelity terminal previews.
 *   **[Brain-ex](https://github.com/BenSiv/brain-ex)**: A terminal-first "second brain" for rapid note capture and task management, featuring optional Obsidian integration.
 *   **[Luam](https://github.com/BenSiv/luam)**: A modernized, minimal Lua dialect designed for cleaner syntax and less boilerplate.
-*   **Celleste-Expert**: A RAG-based AI agent for scientific literature mining and protocol extraction from unstructured text.
+*   **[Filament](https://github.com/BenSiv/filament)**: A hybrid RAG system for cold case investigation, linking structured forensic data with unstructured narratives.
 
 ---
 
