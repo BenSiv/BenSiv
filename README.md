@@ -2,15 +2,19 @@
 
 **Data Scientist | Bioinformatician | AgTech & FoodTech Specialist**
 
-I bridge the gap between biology and computation. My work focuses on building infrastructure for scientific research, automating complex biological workflows, and creating high-performance tools for 3D modeling and knowledge management.
+I bridge the gap between biology, computation, and decentralized systems. My work focuses on building infrastructure for scientific research, automating complex biological workflows, creating high-performance tools for 3D modeling, and developing secure, local-first peer-to-peer networks.
 
 ---
 
 ### 🚀 What I'm Building
-*   **[Luametry](https://github.com/BenSiv/luametry)**: A professional, programmatic CAD tool for Lua, supporting STEP, 3MF, and OBJ exports with high-fidelity terminal previews.
-*   **[Brain-ex](https://github.com/BenSiv/brain-ex)**: A terminal-first "second brain" for rapid note capture and task management, featuring optional Obsidian integration.
-*   **[Luam](https://github.com/BenSiv/luam)**: A modernized, minimal Lua dialect designed for cleaner syntax and less boilerplate.
-*   **[Filament](https://github.com/BenSiv/filament)**: A hybrid RAG system for cold case investigation, linking structured forensic data with unstructured narratives.
+
+#### Project Highlights
+*   **[Luam](https://github.com/BenSiv/luam)**: A modernized, minimal Lua dialect designed for cleaner syntax, less boilerplate, and native standalone compilation.
+*   **[Luametry](https://github.com/BenSiv/luametry)**: A professional, programmatic CAD tool for Lua supporting STEP, 3MF, and OBJ exports, integrated with the high-performance Manifold geometry library and featuring high-fidelity terminal previews.
+*   **[Brain-ex](https://github.com/BenSiv/brain-ex)**: A terminal-first "second brain" for rapid markdown note capture, task management, and semantic indexing, featuring optional Obsidian integration.
+*   **[fossil-scm](https://github.com/BenSiv/fossil-scm)**: A custom fork of the Fossil Distributed Version Control System that embeds local AI Agent capabilities directly into the version control core. Features semantic search/indexing, a local chat interface (`/agentui`), and pluggable LLM integrations (Ollama, Claude, Gemini, OpenAI) to manage codebase knowledge.
+*   **[Filament](https://github.com/BenSiv/filament)**: A hybrid RAG system for cold case investigation, linking structured forensic data with unstructured narrative text using localized LLM reasoning.
+*   **[AuraRadar](https://github.com/BenSiv/auraradar)**: A serverless, local-first proximity-based peer-to-peer mesh network built with **Tauri v2**, **Rust**, and **React**. It utilizes **Paillier homomorphic coordinate blinding** and **Merlin Bulletproof range proofs** to perform secure zero-knowledge proximity handshakes, running persistently via Android foreground services and communicating over secure P2P channels that bypass mobile hotspot blocks. All data is encrypted locally using **SQLCipher**.
 
 ---
 
@@ -18,10 +22,10 @@ I bridge the gap between biology and computation. My work focuses on building in
 
 | Area | Tools & Tech |
 | :--- | :--- |
-| **Data Science** | Python (Scikit-learn, PyTorch), R, Julia, SQL, NLP, RAG, LLMs |
-| **Bioinformatics** | Sequence Processing, Genome Assembly, Variant Modeling, Expression Analysis |
-| **Engineering/DevOps** | Docker, Podman, AWS, GCP, Terraform, Ansible, Git, Lua |
-| **CAD & Fabrication** | Luametry, OpenSCAD, 3D Modeling, FDM 3D Printing |
+| **Data Science & ML** | Python (Scikit-learn, PyTorch), R, Julia, SQL, NLP, RAG, Reinforcement Learning, Agent Simulations |
+| **Bioinformatics & Biotech** | Sequence Processing, Genome Assembly, CRISPR/Cas9, Cell Culture Monitoring, CVS Biomass Amplification |
+| **Engineering & Cryptography** | Rust, Tauri v2, React, TypeScript, SQLite/SQLCipher, P2P Mesh Networks, Paillier Homomorphic Cryptography |
+| **CAD, SCM & Tooling** | Luametry, OpenSCAD, Manifold, Fossil SCM, Git, FDM 3D Printing, Android Foreground Services |
 
 ---
 
@@ -40,3 +44,5 @@ I bridge the gap between biology and computation. My work focuses on building in
 ---
 
 > *"Automating the redundant so we can focus on the breakthrough."*
+
+
